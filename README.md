@@ -1,2 +1,6 @@
-# bicep
-Bicep code I've created and/or used over time.
+# Bicep
+
+Bicep code I've created and used over time.
+
+## Table of Contents
+
